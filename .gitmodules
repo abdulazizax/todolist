@@ -1,0 +1,9 @@
+[submodule "API-Gateway/todolist-protos"]
+	path = API-Gateway/todolist-protos
+	url = git@github.com:abdulazizax/todolist-protos.git
+[submodule "Auth-service/todolist-protos"]
+	path = Auth-service/todolist-protos
+	url = git@github.com:abdulazizax/todolist-protos.git
+[submodule "Tasks-service/todolist-protos"]
+	path = Tasks-service/todolist-protos
+	url = git@github.com:abdulazizax/todolist-protos.git
